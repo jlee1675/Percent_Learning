@@ -1,2 +1,2 @@
-# Percent_Learning
-Educational application using ML to extract questions from lecture notes 
+# Perecent_Learning
+ML learning app to compile lecture notes and quizzes (2018)
